@@ -3,7 +3,10 @@ package com.qa.libs;
 public class TestBase {
 	
 	public void test() {
-		System.out.println("SLNP");
+		System.out.println("SLNP"+ "MD");
+		
 	}
+	
+	
 
 }
